@@ -1,4 +1,4 @@
-This is the readme file for source code for Project 2 of CMPE364 2016 fall
+#Multi-view Stereo#
 
 The project is Plane-sweeping Multiview stereo
 
